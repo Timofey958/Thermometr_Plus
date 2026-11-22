@@ -17,6 +17,6 @@ DHT22 (уже распаянный модуль) -
 3. Минус к GND
 
 ## Загрузка кода
-В файле binaries находится файл firmware.hex, его надо скачать. После, перейдите на сайт https://ardublock.ru/hex/, выберите скачанный файл, выбирайте Arduino new bootloader и порт, где подключена Arduino
+В релизах надо скачать бинарник, загрузить его на плату через сайт https://ardublock.ru/hex/ и пункт Arduino new bootloader
 
 
